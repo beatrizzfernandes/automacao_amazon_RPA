@@ -1,0 +1,7 @@
+{
+    "email": {
+        "remetente": "seu-email@gmail.com",
+        "senha": "sua-senha-aqui",
+        "destinatario": "email-destino@gmail.com"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "email": {
+        "remetente": "fernandes.beatrzz@gmail.com",
+        "senha": "wtlj ucaq pwbb jiqr",
+        "destinatario": "be4fer@gmail.com"
+    },
+    "amazon": {
+        "pesquisa": "Tapete higiênico pet"
+    },
+    "arquivo_excel": "produtos_amazon_openpyxl.xlsx"
+}
